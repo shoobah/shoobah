@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer - web, backend, anything
 ----------------------------------
 
-Developer with 20+ years of professional experience. Computer geek since the beginning of the 80's. Also do a lot of photography 😊
+Developer with 25+ years of professional experience. Computer geek since the beginning of the 80's. Also do a lot of photography 😊
 
 *   🌍  I'm based in Kågbo, Sweden
 *   🧠  I'm learning Svelte, SvelteKit, Python
